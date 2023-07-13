@@ -9,5 +9,8 @@ which are a burden most of the time. Hand gesture systems provides a natural and
 non-verbal communication.These systems has a wide area of application in human computer interaction.In this 
 project the system can be controlled by hand gesture without making use of the keyboard and mouse which are 
 the traditional approaches to control the device.
+
+
+
 Introduction:
 Volume Control using Gestures emphasizes the significance of hand gestures as a powerfulcommunication medium in Human Computer Interaction(HCI) and discusses the limitations of traditional input devices. The proposed system aims to utilize hand gestures for interaction with computers, using a desktop or laptop interface utilizing a web camera to record hand gestures.The objective of this project is to develop an interface which will capture human hand gesture dynamically and will control the volume level.This allows users to control the volume of their devices naturally, without the need for explicit instruction and without the need for additional hardware.Volume control using gestures uses OPENCV,Python,Pycaw,Mediapipe are used.
